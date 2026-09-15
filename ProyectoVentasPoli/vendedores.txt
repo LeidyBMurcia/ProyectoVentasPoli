@@ -1,0 +1,5 @@
+CE;1215451528;Luis;Perez
+NIT;1562317919;Luis;Torres
+CE;1200717922;Maria;Rodriguez
+NIT;1195139744;Jorge;Perez
+NIT;1497255558;Luis;Lopez

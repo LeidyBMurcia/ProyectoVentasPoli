@@ -1,0 +1,10 @@
+1;Portatil_1;170000
+2;Impresora_2;60000
+3;Diadema_3;410000
+4;Mouse_4;350000
+5;Mouse_5;20000
+6;Teclado_6;260000
+7;Mouse_7;290000
+8;Teclado_8;140000
+9;Escaner_9;110000
+10;Portatil_10;70000
