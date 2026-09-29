@@ -4,8 +4,6 @@ import java.util.*;
 /**
  * Clase principal encargada del procesamiento de archivos de ventas,
  * consolidacion de informacion y generacion de reportes finales.
- * 
- * @version 2.0 (Entrega 2)
  */
 public class ProcessSales {
 
